@@ -17,3 +17,11 @@ Don't dell me whad do do
 	echo | write - write output
 
  foreach($line in $ln){ after having line1 and line2 be elements in an array
+
+Part 1 of Looping
+
+	$arr = @("notepad","msedge","mspaint")
+	foreach ($process in $arr) {
+	Start-process $process }
+	get-process -name 'notepad','msedge','mspaint'
+	kill -name 'notepad','msedge','mspaint'
