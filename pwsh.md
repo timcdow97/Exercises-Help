@@ -15,3 +15,5 @@ Don't dell me whad do do
 	sc - set content
 	ac - add content
 	echo | write - write output
+
+ foreach($line in $ln){ after having line1 and line2 be elements in an array
