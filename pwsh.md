@@ -14,3 +14,4 @@ Don't dell me whad do do
 	gc | cat | type - get content
 	sc - set content
 	ac - add content
+	echo | write - write output
