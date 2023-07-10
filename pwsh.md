@@ -25,3 +25,7 @@ Part 1 of Looping
 	Start-process $process }
 	get-process -name 'notepad','msedge','mspaint'
 	kill -name 'notepad','msedge','mspaint'
+
+
+
+# **HEEEELLLLPPPP!!!!!**
