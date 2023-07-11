@@ -1,3 +1,4 @@
+https://forms.gle/gWpvM7vt9JknuqjL8
 Don't dell me whad do do
 # Alias's
 	gu - get unique
