@@ -1,0 +1,44 @@
+<mxfile host="app.diagrams.net" modified="2023-08-18T22:45:16.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RooHwSS8eZ0h3_jiXts9" version="21.6.8" type="github">
+  <diagram name="Page-1" id="ZQb7PMIkugz6LxCUQEVP">
+    <mxGraphModel dx="1194" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DvWOkho-49XDGU7m_phw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DvWOkho-49XDGU7m_phw-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="381.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvWOkho-49XDGU7m_phw-5" value="CS 01=1st Pivot&lt;br&gt;10.50.28.35&lt;br&gt;int: 10.1.1.30&lt;br&gt;22, 80" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="313" width="137" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="DvWOkho-49XDGU7m_phw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.044;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DvWOkho-49XDGU7m_phw-1" target="DvWOkho-49XDGU7m_phw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DvWOkho-49XDGU7m_phw-9" value="ssh net4_student9@10.50.28.35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvWOkho-49XDGU7m_phw-7">
+          <mxGeometry x="-0.0739" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvWOkho-49XDGU7m_phw-1" value="IH" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="DvWOkho-49XDGU7m_phw-4" value="10.50.44.243" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="390" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DvWOkho-49XDGU7m_phw-6" value="10.1.1.11&lt;br&gt;21&lt;br&gt;23&lt;br&gt;25&lt;br&gt;1918" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="620" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DvWOkho-49XDGU7m_phw-8" value="01&amp;gt; ss -ntlp&lt;br&gt;01&amp;gt; ip a (find internal network)&lt;br&gt;&lt;br&gt;IH&amp;gt; ./scan.sh&lt;br&gt;IH&amp;gt; nmap&lt;br&gt;IH&amp;gt; ssh net4_student9@10.1.1.30 -D 9050 -NT" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="445" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DvWOkho-49XDGU7m_phw-10" value="21&lt;br&gt;23" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="817" y="310" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DvWOkho-49XDGU7m_phw-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="420" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
